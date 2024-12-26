@@ -1,0 +1,2 @@
+# Portfolio-selection-for-best-yield-using-using-Data-Science-and-Machine-Learning-
+Objective: Analyze the NIFTY50 stock data, come up with strategies to build a portfolio that will bring the maximum yield. Tasks: 1. Analyze the indicators in the dataset that best explain the volatility and unpredictable nature of the stocks in the last decade.  2. Choose promising stock based on your analysis, build a dashboard and model to help
